@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web Developer",
+    "organisation": "Ivixia Tech Lab",
+    "startDate": "Nov, 2024",
+    "endDate": "Dec, 2024",
+    "experiences": ["Worked on PHP and Mysql.", "Created Employee Management System."],
+    "imageSrc": "history/ivixia.png"
+  },
+  {
+    "role": "Open Source Contributer",
+    "organisation": "GSSOC",
+    "startDate": "Oct, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": ["Contributed in more than 20 project.", "Achive Pull Shark Badge."],
+    "imageSrc": "history/gssoc.png"
+  }
+]

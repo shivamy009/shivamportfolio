@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "ReactJs",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "NodeJs",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Mysql",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Postgresql",
+    "imageSrc": "skills/postgress.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  }
+]
