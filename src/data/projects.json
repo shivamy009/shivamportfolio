@@ -4,23 +4,23 @@
     "imageSrc": "projects/blogging.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node","Tailwind"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://welcomblog.netlify.app/",
+    "source": "https://github.com/shivamy009/BlogFrontent"
   },
   {
     "title": "Quiz Application",
     "imageSrc": "projects/quiz.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "MongoDb"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://quiz-stack-delta.vercel.app/",
+    "source": "https://github.com/shivamy009/QuizStack"
   },
   {
     "title": "To Do App",
     "imageSrc": "projects/todoapp.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React","Css","Javascript","HTML"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://todoliiest-app.netlify.app/",
+    "source": "https://github.com/shivamy009/todo-app"
   }
 ]
