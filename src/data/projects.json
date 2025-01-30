@@ -19,7 +19,7 @@
     "title": "To Do App",
     "imageSrc": "projects/todoapp.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React","Css","Javascript"],
+    "skills": ["React","Css","Javascript","HTML"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
