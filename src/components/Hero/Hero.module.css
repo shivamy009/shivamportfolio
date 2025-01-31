@@ -50,6 +50,33 @@
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 
+.resumeBtn{
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 100px;
+  font-size: 30px;
+  font-weight: 600;
+  padding: 12px 26px;
+  box-shadow: 0 0 4px 0 rgb(228 226 226 / 25%);
+}
+
+.aDowntag{
+  text-decoration: none;
+}
+
+.downBtn{
+  margin-top: 11px;
+}
+.contactResume{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+
 .homeImg {
   width: 50%;
   z-index: 1;
@@ -108,4 +135,16 @@
   .content {
     align-items: center;
   }
+}
+
+@media screen and (max-width: 830px) {
+  .contactResume {
+    flex-direction: column-reverse;
+    width: 50%;
+    row-gap: 15px;
+  }
+  
+  /* .content {
+    align-items: center;
+  } */
 }
